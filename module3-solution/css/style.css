@@ -1,0 +1,45 @@
+body{
+	font-family: cursive;
+}
+
+#header-nav{
+	background-color: #eee;
+	border-radius: 0;
+	border: 1px solid;
+	margin-bottom: 20px;
+}
+
+#button{
+	position: absolute;
+	right: 10%;
+	top:30%;
+	height: 30px;
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+#nav-list{
+	text-align: center;
+}
+
+#menu-title{
+	margin: 20px;
+}
+
+#main-content{
+	margin-top: 50px;
+	background-color: #eee;
+}
+
+@media (max-width: 767px){
+	.container{
+		width: 75%;
+	}
+}
+
