@@ -9,12 +9,18 @@ body{
 	margin-bottom: 20px;
 }
 
-#button{
+/*#button{
 	position: absolute;
 	right: 10%;
 	top:30%;
 	height: 30px;
-}
+}*/
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;}
 
 hr{
     display: block;
